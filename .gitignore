@@ -1,0 +1,3 @@
+dataset/VOC2007/
+dataset/VOC2012/
+model/resnet50-19c8e357.pth
